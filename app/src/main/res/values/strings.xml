@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Post API</string>
+    <string name="hello">مرحبًا</string>
+    <string name="email">Enter Email Address</string>
+    <string name="name">Enter Your Name</string>
+    <string name="login">Login</string>
+    <string name="password">Enter Your Password</string>
+    <string name="mobile_no">Enter Your Mobile Number</string>
+    <string name="signUp">SignUp</string>
+    <string name="already_user_login">Already User? Login</string>
+    <string name="not_sign_up">Not Registered Yet? SignUp</string>
+    <string name="company_name">Company name</string>
+    <string name="welcome">Welcome To the</string>
+    <string name="welcome_home">Welcome</string>
+    <string name="user_name">Name of the User</string>
+</resources>
